@@ -10,10 +10,14 @@ const Hero = async () => {
   return (
     <div>
       <div className="md:px-[150px] md:pt-[55px] mb-6 px-[20px] py-[20px]">
-        <h1 className="font-bold text-[30px] w-[250px] leading-10  md:text-[60px] font-sans md:leading-[70px] pb-6 md:w-[500px]">
+        <h1
+          className={`font-bold text-[30px] text-[${data?.data[0]?.headercolor}] w-[250px] leading-10  md:text-[60px] font-sans md:leading-[70px] pb-6 md:w-[500px]`}
+        >
           {data?.data[0]?.title}
         </h1>
-        <p className="font-medium text-[14px] text-gray-500 mb-8 w-[300px]">
+        <p
+          className={`font-medium text-[14px] text-[${data?.data[0]?.desccolor}] mb-8 w-[300px]`}
+        >
           {data?.data[0]?.desc}
         </p>
         <div className="flex gap-6 items-center">
