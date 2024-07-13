@@ -6,6 +6,7 @@ const Hero = async () => {
   const url = "https://cms-project-seven.vercel.app/api/hero";
   const res = await fetch(url, { method: "GET", cache: "no-cache" });
   const data = await res.json();
+  console.log(data?.data[0]?.headercolor);
 
   return (
     <div>
@@ -15,9 +16,7 @@ const Hero = async () => {
         >
           {data?.data[0]?.title}
         </h1>
-        <p
-          className={`font-medium text-[14px] text-[${data?.data[0]?.desccolor}] mb-8 w-[300px]`}
-        >
+        <p className={`font-medium text-[14px] text-[] mb-8 w-[300px]`}>
           {data?.data[0]?.desc}
         </p>
         <div className="flex gap-6 items-center">
