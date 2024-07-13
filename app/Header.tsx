@@ -12,13 +12,14 @@ const Header = async () => {
     <div>
       <div className="w-[100%]">
         <div className="flex md:justify-between items-center px-[30px] md:px-[150px] py-7">
-          <div className="flex justify-between w-[100vw] items-center gap-10">
+          <div className="flex justify-between w-[100vw] md:w-[300px] items-center gap-10">
             <div>
               <h1 className="font-bold text-[20px]">{data?.data[0]?.logo}</h1>
             </div>
             <div className="font-bold md:hidden">
               <MdMenu className="text-[20px]" />
             </div>
+
             <div className="hidden md:flex gap-8 items-center cursor-default">
               {data.data[0].navs.map((el: any, id: any) => (
                 <div key={id}>

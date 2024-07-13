@@ -5,7 +5,6 @@ import Header from "./Header";
 const page = () => {
   return (
     <div>
-      <Header />
       <Hero />
     </div>
   );
