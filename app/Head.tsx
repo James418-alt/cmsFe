@@ -3,7 +3,7 @@ import React from "react";
 import { MdMenu } from "react-icons/md";
 
 const Head = async () => {
-  const url = "http://localhost:3001/api/header";
+  const url = "https://cms-project-seven.vercel.app/api/header";
   const res = await fetch(url, { method: "GET", cache: "no-cache" });
   const data = await res.json();
 
