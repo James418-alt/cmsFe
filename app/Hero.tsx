@@ -10,16 +10,16 @@ const Hero = async () => {
 
   return (
     <div>
-      <div className="md:px-[150px] md:pt-[55px] mb-6 px-[20px] py-[20px]">
+      <div className="md:px-[150px] md:pt-[55px] mb-1 md:mb-6 px-[20px] py-[20px]">
         <h1
           style={{ color: `${data?.data[0]?.headercolor}` }}
-          className={`font-bold text-[30px] w-[250px] leading-10  md:text-[60px] font-sans md:leading-[70px] pb-6 md:w-[500px]`}
+          className={`font-bold text-[30px] w-[250px] leading-10  md:text-[60px] font-sans md:leading-[70px] md:pb-6 pb-4 md:w-[500px]`}
         >
           {data?.data[0]?.title}
         </h1>
         <p
           style={{ color: `${data?.data[0]?.desccolor}` }}
-          className={`font-medium text-[14px]  mb-8 w-[300px]`}
+          className={`font-medium text-[14px] mb-4 md:mb-8 w-[300px]`}
         >
           {data?.data[0]?.desc}
         </p>
