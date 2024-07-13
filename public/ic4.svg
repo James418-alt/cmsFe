@@ -1,0 +1,15 @@
+<svg id="ic-libio" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_14521" data-name="Path 14521" d="M19.2,0H44.8A19.2,19.2,0,0,1,64,19.2V44.8A19.2,19.2,0,0,1,44.8,64H19.2A19.2,19.2,0,0,1,0,44.8V19.2A19.2,19.2,0,0,1,19.2,0Z" fill="#1e1f21"/>
+    </clipPath>
+  </defs>
+  <path id="Path_14517" data-name="Path 14517" d="M19.2,0H44.8A19.2,19.2,0,0,1,64,19.2V44.8A19.2,19.2,0,0,1,44.8,64H19.2A19.2,19.2,0,0,1,0,44.8V19.2A19.2,19.2,0,0,1,19.2,0Z" fill="#1e1f21"/>
+  <g id="Mask_Group_6" data-name="Mask Group 6" clip-path="url(#clip-path)">
+    <g id="Link" transform="translate(1.39 20.778)">
+      <path id="Path_15872" data-name="Path 15872" d="M30.711,27.591l-4.023,4.023A10.5,10.5,0,0,1,11.859,16.8l4.023-4.023A4.4,4.4,0,0,0,9.664,6.548L5.645,10.572A19.274,19.274,0,0,0,32.9,37.829l4.023-4.019a4.4,4.4,0,0,0-6.214-6.218Z" transform="translate(0 17.748)" fill="#fff"/>
+      <path id="Path_15873" data-name="Path 15873" d="M18.293,5.861,5.861,18.293a4.394,4.394,0,0,0,6.214,6.214L24.507,12.075a4.394,4.394,0,1,0-6.214-6.214Z" transform="translate(15.427 15.427)" fill="#fff"/>
+      <path id="Path_15874" data-name="Path 15874" d="M37.83,5.646a19.272,19.272,0,0,0-27.257,0L6.55,9.665a4.4,4.4,0,1,0,6.214,6.218l4.023-4.023A10.5,10.5,0,0,1,31.616,26.676L27.593,30.7a4.4,4.4,0,1,0,6.218,6.227L37.83,32.9a19.272,19.272,0,0,0,0-27.257Z" transform="translate(17.746 0)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

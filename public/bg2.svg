@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1046" height="545" viewBox="0 0 1046 545">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_4132" data-name="Rectangle 4132" width="1046" height="545" transform="translate(0 5162)" fill="#4b4b4d"/>
+    </clipPath>
+  </defs>
+  <g id="bg-apps-list" transform="translate(0 -5162)" clip-path="url(#clip-path)">
+    <rect id="Rectangle_4214" data-name="Rectangle 4214" width="1046" height="545" rx="24" transform="translate(0 5162)" fill="#1e1f21"/>
+    <g id="dumo-x-chigisoft" transform="matrix(0.966, 0.259, -0.259, 0.966, 591.506, 5283.755)" opacity="0.04">
+      <path id="Path_1403" data-name="Path 1403" d="M331.836,61.941A203.41,203.41,0,0,0,180.81.053H0V128.424H180.736a81.34,81.34,0,0,1,62.645,26.719A98.56,98.56,0,0,1,267.9,224.419a98.431,98.431,0,0,1-24.634,69.227,81.332,81.332,0,0,1-62.534,26.9H130.844v-113.1H0V439.573H180.736a203.6,203.6,0,0,0,151.026-61.84,209.562,209.562,0,0,0,60.413-153.543,229.324,229.324,0,0,0-60.34-162.248Z" transform="translate(161.056 0)" fill="none" stroke="#fff" stroke-width="2"/>
+      <rect id="Rectangle_301" data-name="Rectangle 301" width="130.844" height="80.044" transform="translate(0 128.018)" fill="none" stroke="#fff" stroke-width="2"/>
+    </g>
+    <g id="dumo-x-chigisoft-2" data-name="dumo-x-chigisoft" transform="matrix(0.966, 0.259, -0.259, 0.966, -218.722, 4964.824)" opacity="0.04">
+      <path id="Path_1403-2" data-name="Path 1403" d="M331.836,61.941A203.41,203.41,0,0,0,180.81.053H0V128.424H180.736a81.34,81.34,0,0,1,62.645,26.719A98.56,98.56,0,0,1,267.9,224.419a98.431,98.431,0,0,1-24.634,69.227,81.332,81.332,0,0,1-62.534,26.9H130.844v-113.1H0V439.573H180.736a203.6,203.6,0,0,0,151.026-61.84,209.562,209.562,0,0,0,60.413-153.543,229.324,229.324,0,0,0-60.34-162.248Z" transform="translate(161.056 0)" fill="none" stroke="#fff" stroke-width="2"/>
+      <rect id="Rectangle_301-2" data-name="Rectangle 301" width="130.844" height="80.044" transform="translate(0 128.018)" fill="none" stroke="#fff" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

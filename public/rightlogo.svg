@@ -1,0 +1,11 @@
+<svg id="ic-dcc-x" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_14524" data-name="Path 14524" d="M12,0H28A12,12,0,0,1,40,12V28A12,12,0,0,1,28,40H12A12,12,0,0,1,0,28V12A12,12,0,0,1,12,0Z" fill="#0039d6"/>
+    </clipPath>
+  </defs>
+  <path id="Path_14525" data-name="Path 14525" d="M12,0H28A12,12,0,0,1,40,12V28A12,12,0,0,1,28,40H12A12,12,0,0,1,0,28V12A12,12,0,0,1,12,0Z" fill="#fff"/>
+  <g id="Mask_Group_8" data-name="Mask Group 8" clip-path="url(#clip-path)">
+    <path id="Path_1404" data-name="Path 1404" d="M129.622,42.976a15.21,15.21,0,0,1-10.389,3.488,15.248,15.248,0,0,1-10.4-3.488,11.59,11.59,0,0,1-3.984-9.144V20.09h10.1V32.747q0,3.942,4.288,3.937t4.267-3.937V20.09h10.076V33.832A11.5,11.5,0,0,1,129.622,42.976Z" transform="translate(66.479 -99.215) rotate(90)" fill="#1e1f21"/>
+  </g>
+</svg>
