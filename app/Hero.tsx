@@ -6,7 +6,6 @@ const Hero = async () => {
   const url = "https://cms-project-seven.vercel.app/api/hero";
   const res = await fetch(url, { method: "GET", cache: "no-cache" });
   const data = await res.json();
-  console.log(data?.data[0]?.headercolor);
 
   return (
     <div>

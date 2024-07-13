@@ -1,9 +1,8 @@
 import Image from "next/image";
-import Link from "next/link";
 import React from "react";
 import { MdMenu } from "react-icons/md";
 
-const Header = async () => {
+const Head = async () => {
   const url = "http://localhost:3001/api/header";
   const res = await fetch(url, { method: "GET", cache: "no-cache" });
   const data = await res.json();
@@ -47,4 +46,4 @@ const Header = async () => {
   );
 };
 
-export default Header;
+export default Head;
