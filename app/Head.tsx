@@ -4,7 +4,7 @@ import React, { useState } from "react";
 import { MdMenu } from "react-icons/md";
 
 const Header = async () => {
-  const url = "http://localhost:3000/api/header";
+  const url = "https://cms-project-seven.vercel.app/api/header";
   const res = await fetch(url, { method: "GET", cache: "no-cache" });
   const data = await res.json();
   // console.log(data.data[0].navs);
